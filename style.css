@@ -1,0 +1,54 @@
+#division1{
+    border: 10px solid black;
+    height: 200px;
+    padding: 20px;
+    background-image: url(download.jpg),url(istockphoto-1434119032-170667a.webp),url(download.jpg);
+
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-clip: padding-box;
+    background-position: left, center, right;
+    
+}
+#division2{
+    border: 10px solid black;
+    background-color: blue;
+    padding: 20px;
+    background-clip: content-box;
+}
+#division3{
+    border: 10px dotted black;
+    background-color: blue;
+    padding: 20px;
+    background-clip: padding-box;
+}
+#division4{
+    border: 10px solid black;
+    background-color: blue;
+    padding: 20px;
+    background-clip: content-box;
+
+}
+p{
+    margin-top: 100px;
+    margin-left: 20px ;
+    margin-right:20px ;
+}
+#division5{
+    height: 200px;
+    width: 200px;
+}
+.child{
+    border: 2px dotted green;
+    height: 150px;
+    width: 250px;
+margin: auto;
+    
+
+}
+
+
+
+
+
+
